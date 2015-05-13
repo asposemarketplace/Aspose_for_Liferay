@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE hook PUBLIC "-//Liferay//DTD Hook 6.2.0//EN" "http://www.liferay.com/dtd/liferay-hook_6_2_0.dtd">
+
+<hook>
+	<portal-properties>portal.properties</portal-properties>
+	<language-properties>content/Language.properties</language-properties>
+	<custom-jsp-dir>/META-INF/custom_jsps</custom-jsp-dir>
+	<custom-jsp-global>true</custom-jsp-global>
+	<struts-action>
+		<struts-action-path>/journal/aspose_icon_action</struts-action-path>
+		<struts-action-impl>com.aspose.icon.action.AsposeIconAction</struts-action-impl>
+	</struts-action>
+		<struts-action>
+		<struts-action-path>/blogs_admin/aspose_icon_action</struts-action-path>
+		<struts-action-impl>com.aspose.icon.action.AsposeIconAction</struts-action-impl>
+	</struts-action>
+		<struts-action>
+		<struts-action-path>/dynamic_data_lists/aspose_icon_action</struts-action-path>
+		<struts-action-impl>com.aspose.icon.action.AsposeIconAction</struts-action-impl>
+	</struts-action>
+	<struts-action>
+		<struts-action-path>/journal/aspose_export_doc</struts-action-path>
+		<struts-action-impl>com.aspose.liferay.portlet.journal.action.AsposeJournalExportDocAction</struts-action-impl>
+	</struts-action>
+	<struts-action>
+		<struts-action-path>/journal/aspose_export_pdf</struts-action-path>
+		<struts-action-impl>com.aspose.liferay.portlet.journal.action.AsposeJournalExportPdfAction</struts-action-impl>
+	</struts-action>
+	<struts-action>
+		<struts-action-path>/journal/aspose_export_xls</struts-action-path>
+		<struts-action-impl>com.aspose.liferay.portlet.journal.action.AsposeJournalExportXlsAction</struts-action-impl>
+	</struts-action>
+	<struts-action>
+		<struts-action-path>/blogs_admin/aspose_export_doc</struts-action-path>
+		<struts-action-impl>com.aspose.liferay.portlet.blogs.action.AsposeBlogExportDocAction</struts-action-impl>
+	</struts-action>
+	<struts-action>
+		<struts-action-path>/blogs_admin/aspose_export_pdf</struts-action-path>
+		<struts-action-impl>com.aspose.liferay.portlet.blogs.action.AsposeBlogExportPdfAction</struts-action-impl>
+	</struts-action>
+	<struts-action>
+		<struts-action-path>/blogs_admin/aspose_export_xls</struts-action-path>
+		<struts-action-impl>com.aspose.liferay.portlet.blogs.action.AsposeBlogExportXlsAction</struts-action-impl>
+	</struts-action>
+	<struts-action>
+		<struts-action-path>/dynamic_data_lists/aspose_export_doc</struts-action-path>
+		<struts-action-impl>com.aspose.liferay.portlet.dynamicLists.action.AsposeDynamicListsExportDocAction</struts-action-impl>
+	</struts-action>
+	<struts-action>
+		<struts-action-path>/dynamic_data_lists/aspose_export_pdf</struts-action-path>
+		<struts-action-impl>com.aspose.liferay.portlet.dynamicLists.action.AsposeDynamicListsExportPdfAction</struts-action-impl>
+	</struts-action>
+	<struts-action>
+		<struts-action-path>/dynamic_data_lists/aspose_export_xls</struts-action-path>
+		<struts-action-impl>com.aspose.liferay.portlet.dynamicLists.action.AsposeDynamicListsExportXlsAction</struts-action-impl>
+	</struts-action>
+
+</hook>
