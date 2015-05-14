@@ -8,7 +8,7 @@ The Plugin also provides very useful functionality / options for exporting the D
 
 ## Supported Products
 
-### GitHub Project Master and Branch 6.2.x
+### GitHub Project Master 
 
 * Liferay Portal 6.2 CE : 6.2 CE GA1 (6.2.0+)
 * Liferay Portal 6.2 EE : 6.2 EE GA1 (6.2.10+)
