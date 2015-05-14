@@ -73,3 +73,15 @@ Copy / Deploy "liferay-aspose-export-hook-N.N.N.N.war" to "LIFERAY_HOME/deploy" 
 ## Project Team
 
 * Adeel Ilyas - adeel.ilyas@aspose.com
+
+**Recommended Links**
+
+*   [Aspose Blog on "Aspose Java for Liferay"] (http://youtube.com)
+
+*   [Video tutorial on "Aspose Java for Liferay"](http://youtube.com)
+
+*   [Aspose Confluence Wiki of the plugin](http://support.aspose.dynabic.com/wiki/display/marketplace/6.+Aspose+Java+for+Liferay)
+
+*   [Aspose Java Components](http://www.aspose.com/java/total-component.aspx)
+
+![](http://i.imgur.com/IB3pzFP.jpg)
