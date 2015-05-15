@@ -17,7 +17,7 @@ The Plugin also provides very useful functionality / options for exporting the D
 
 *   [Video tutorial on "Aspose Java for Liferay" plugin](http://youtube.com)
 
-*   [Aspose Confluence Wiki of the plugin](http://support.aspose.dynabic.com/wiki/display/marketplace/6.+Aspose+Java+for+Liferay)
+*   [Aspose Confluence Wiki of the plugin](http://www.aspose.com/docs/display/totaljava/6.+Aspose.Total+Java+for+Liferay)
 
 *   [Aspose Java Components](http://www.aspose.com/java/total-component.aspx)
 
