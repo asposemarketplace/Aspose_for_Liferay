@@ -13,7 +13,7 @@ The Plugin also provides very useful functionality / options for exporting the D
 
 ## Recommended Links
 
-*   [Aspose Blog on "Aspose Java for Liferay" plugin](http://youtube.com)
+*   [Aspose Blog on "Aspose Java for Liferay" plugin](https://goo.gl/PGQDoH)
 
 *   [Video tutorial on "Aspose Java for Liferay" plugin](http://youtu.be/fJOrL4iD2aA)
 
